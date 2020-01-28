@@ -1,0 +1,7 @@
+media
+__pycache__
+*.pyo
+*.pyc
+.env
+*.db
+*.sqlite3
