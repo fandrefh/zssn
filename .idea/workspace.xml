@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56addf68-c470-4948-8df8-9f4d880fa915" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/zssn/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zssn/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="56addf68-c470-4948-8df8-9f4d880fa915" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +78,7 @@
       <workItem from="1579817372039" duration="6812000" />
       <workItem from="1580063505358" duration="15132000" />
       <workItem from="1580160083980" duration="14729000" />
-      <workItem from="1580228037115" duration="13758000" />
+      <workItem from="1580228037115" duration="14049000" />
     </task>
     <servers />
   </component>
