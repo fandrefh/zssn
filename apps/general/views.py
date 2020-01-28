@@ -21,7 +21,7 @@ class ItemListCreateAPIView(ListCreateAPIView):
     """
     serializer_class = ItemSerializer
     queryset = Item.objects.all()
-    # permission_classes = [IsAdminUser]
+    permission_classes = [IsAdminUser]
 
 
 class SurvivorListCreateAPIView(ListCreateAPIView):
@@ -38,7 +38,7 @@ class InventoryListCreateAPIView(ListCreateAPIView):
     """
     serializer_class = InventorySerializer
     queryset = Inventory.objects.all()
-    # permission_classes = [IsAdminUser]
+    permission_classes = [IsAdminUser]
 
 
 class SurvivorLocationUpdate(APIView):
